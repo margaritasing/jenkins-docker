@@ -70,4 +70,6 @@ app.get('/get-shopping-cart', function (req, res) {
 
 app.listen(3000, function () {
   console.log("app listening on port 3000!");
+<<<<<<< HEAD
 });
+
